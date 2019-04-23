@@ -8,6 +8,8 @@ To get started, just jump through the files in the repo as needed.
 
 ## Quick tips
 
+- A lambda expression in called a closure in Rust.
+
 - `format!` is `print!` but writes to heap if you want to store the string.
 
 - `x?` is shorthand for `try!(x)`
