@@ -1,8 +1,8 @@
 # Rust Cheatsheet
 
-This repo provides a set of examples for getting quickly acquainted with the Rust programming language given some experience in software development.
+Abridged [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/).
 
-It is an abridged version of [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/) that acts as a reference 'cheatsheet' for the language.
+This repo provides a set of examples for getting quickly acquainted with the Rust programming language given some experience in software development.
 
 To get started, just jump through the files in the repo as needed.
 
